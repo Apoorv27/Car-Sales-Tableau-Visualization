@@ -1,4 +1,4 @@
-#Car-Sales-Tableau-Visualization
+#Car Sales Tableau Visualization
 
 Creating a story on Tableau using Car Sales data consisting of multiple sheets and dashboards </br>
 
